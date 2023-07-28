@@ -3,19 +3,17 @@
       a Computer Science student from Tunisia with a strong interest in AI and
       web development
     </h3>
-    <img
-      src="https://th.bing.com/th/id/R.977f6e16be152bedfb64a15a253d8685?rik=GmehWPUebC3Sjw&pid=ImgRaw&r=0"
-      width="400"
-      height="400"
-    ></img>
-
     <p align="left">
       <img
         src="https://komarev.com/ghpvc/?username=ziedsagguem&label=Profile%20views&color=0e75b6&style=flat"
         alt="ziedsagguem"
       />
+         <img
+      src="https://th.bing.com/th/id/R.977f6e16be152bedfb64a15a253d8685?rik=GmehWPUebC3Sjw&pid=ImgRaw&r=0"
+      width="400"
+      height="400"
+    />
     </p>
-
     <p align="left">
       <a href="https://github.com/ryo-ma/github-profile-trophy"
         ><img
@@ -23,7 +21,6 @@
           alt="ziedsagguem"
       /></a>
     </p>
-
     <p align="left">
       <a href="https://twitter.com/saguem zied" target="blank"
         ><img
@@ -31,11 +28,9 @@
           alt="saguem zied"
       /></a>
     </p>
-
     - 🌱 I’m currently learning **Angular** - 💬 Ask me about **MERN,Machine
     Learning** - 📫 How to reach me **ziedsagguem@gmail.com** - ⚡ Fun fact **I
     am funny**
-
     <h3 align="left">Connect with me:</h3>
     <p align="left">
       <a href="https://twitter.com/saguem zied" target="blank"
@@ -55,7 +50,6 @@
           width="40"
       /></a>
     </p>
-
     <h3 align="left">Languages and Tools:</h3>
     <p align="left">
       <a href="https://developer.android.com" target="_blank" rel="noreferrer">
@@ -339,7 +333,6 @@
         />
       </a>
     </p>
-
     <p>
       <img
         align="left"
@@ -347,7 +340,6 @@
         alt="ziedsagguem"
       />
     </p>
-
     <p>
       &nbsp;<img
         align="center"
@@ -355,7 +347,6 @@
         alt="ziedsagguem"
       />
     </p>
-
     <p>
       <img
         align="center"
