@@ -7,7 +7,7 @@
       src="https://th.bing.com/th/id/R.977f6e16be152bedfb64a15a253d8685?rik=GmehWPUebC3Sjw&pid=ImgRaw&r=0"
       width="400"
       height="400"
-    />
+    ></img>
 
     <p align="left">
       <img
