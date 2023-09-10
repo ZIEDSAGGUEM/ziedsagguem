@@ -6,7 +6,7 @@
 
 # 💫 About Me:
 
-📫 How to reach me ziedsagguem@gmail.com<br>🔭 I’m currently working on E-Commerce Project<br>🌱 I’m currently learning NextJS<br>💬 Ask me about ReactJS,NodeJS,ExpressJS,MongoDB<br>⚡ Fun fact I am Funny
+📫 How to reach me ziedsagguem@gmail.com<br>🔭 I’m currently working on E-Commerce Project<br>🌱 I’m currently learning Docker and Angular<br>💬 Ask me about ReactJS,NodeJS,ExpressJS,MongoDB<br>⚡ Fun fact I am Funny
 
 
 # 💻 Tech Stack:
