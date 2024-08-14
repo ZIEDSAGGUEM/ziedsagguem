@@ -6,7 +6,7 @@
 
 # 💫 About Me:
 
-📫 How to reach me ziedsagguem@gmail.com<br>🔭 I’m currently working on Issue-Tracker Project<br>🌱 I’m currently learning Hono<br>💬 Ask me about WEB dev<br>⚡ Fun fact I am Funny
+📫 How to reach me ziedsagguem@gmail.com<br>🔭 I’m currently working on Issue-Tracker Project<br>🌱 I’m currently learning Hono && Zustand<br>💬 Ask me about WEB dev<br>⚡ Fun fact I am Funny
 
 
 # 💻 Tech Stack:
