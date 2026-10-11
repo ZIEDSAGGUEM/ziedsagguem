@@ -17,7 +17,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 Bachelor in Big Data and Data Analysis (2024)
-- 💼 Currently working on **backend and data at Ruyatech** (remote)
+- 💼 Currently working on **backend and data at Ruyatech**
 - 🔧 Experienced with REST APIs, JWT authentication, Docker and real-time features (Socket.io)
 - 🗄️ Comfortable designing PostgreSQL schemas, writing Prisma migrations and optimizing slow queries
 - ⚡ Using **Redis** for caching and fast data access to keep APIs responsive
@@ -48,6 +48,7 @@
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 **Databases & ORM**
 
